@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FA8699FF1A4299A8006BBFF3"
-               BuildableName = "PSM"
-               BlueprintName = "PSM"
-               ReferencedContainer = "container:PSM.xcodeproj">
+               BlueprintIdentifier = "FAFEAE0B1CB68C5300DB8E66"
+               BuildableName = "judgone"
+               BlueprintName = "judgone"
+               ReferencedContainer = "container:judgone.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FA8699FF1A4299A8006BBFF3"
-            BuildableName = "PSM"
-            BlueprintName = "PSM"
-            ReferencedContainer = "container:PSM.xcodeproj">
+            BlueprintIdentifier = "FAFEAE0B1CB68C5300DB8E66"
+            BuildableName = "judgone"
+            BlueprintName = "judgone"
+            ReferencedContainer = "container:judgone.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FA8699FF1A4299A8006BBFF3"
-            BuildableName = "PSM"
-            BlueprintName = "PSM"
-            ReferencedContainer = "container:PSM.xcodeproj">
+            BlueprintIdentifier = "FAFEAE0B1CB68C5300DB8E66"
+            BuildableName = "judgone"
+            BlueprintName = "judgone"
+            ReferencedContainer = "container:judgone.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FA8699FF1A4299A8006BBFF3"
-            BuildableName = "PSM"
-            BlueprintName = "PSM"
-            ReferencedContainer = "container:PSM.xcodeproj">
+            BlueprintIdentifier = "FAFEAE0B1CB68C5300DB8E66"
+            BuildableName = "judgone"
+            BlueprintName = "judgone"
+            ReferencedContainer = "container:judgone.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
