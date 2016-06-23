@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FA60445E1CBE08950022881B /* koistudy-1061.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA30F37C1C199D70009B9966 /* koistudy-1061.cpp */; };
+		FA425B701D1B6C1E004E4A27 /* judgeon-4023.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA425B6F1D1B6C1E004E4A27 /* judgeon-4023.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,8 +24,19 @@
 
 /* Begin PBXFileReference section */
 		FA30F37C1C199D70009B9966 /* koistudy-1061.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-1061.cpp"; sourceTree = "<group>"; };
+		FA425B6D1D18DDAC004E4A27 /* judgeon-3981.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "judgeon-3981.cpp"; sourceTree = "<group>"; };
+		FA425B6F1D1B6C1E004E4A27 /* judgeon-4023.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "judgeon-4023.cpp"; sourceTree = "<group>"; };
 		FA6044581CBE06080022881B /* 8161.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 8161.cpp; sourceTree = "<group>"; };
+		FA60445F1CBE0F580022881B /* 1078.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 1078.cpp; sourceTree = "<group>"; };
+		FA6044601CBE0F580022881B /* codeforce-339A.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "codeforce-339A.cpp"; sourceTree = "<group>"; };
+		FA6044611CBE0F580022881B /* judgeon_5002.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = judgeon_5002.cpp; sourceTree = "<group>"; };
+		FA6044631CBE0F580022881B /* koistudy-694.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-694.cpp"; sourceTree = "<group>"; };
+		FA6044641CBE0F580022881B /* koistudy-868.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-868.cpp"; sourceTree = "<group>"; };
+		FA6044651CBE0F580022881B /* koistudy-877.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-877.cpp"; sourceTree = "<group>"; };
+		FA6044661CBE0F580022881B /* koistudy-1131.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-1131.cpp"; sourceTree = "<group>"; };
+		FA6044671CBE0F580022881B /* koistudy-1357.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-1357.cpp"; sourceTree = "<group>"; };
 		FA869A001A4299A8006BBFF3 /* PSM */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PSM; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAEBD8601D16C57D00F9F515 /* acmicpc-1149.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "acmicpc-1149.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +53,17 @@
 		FA8699F71A4299A8006BBFF3 = {
 			isa = PBXGroup;
 			children = (
+				FA60445F1CBE0F580022881B /* 1078.cpp */,
+				FAEBD8601D16C57D00F9F515 /* acmicpc-1149.cpp */,
+				FA425B6D1D18DDAC004E4A27 /* judgeon-3981.cpp */,
+				FA425B6F1D1B6C1E004E4A27 /* judgeon-4023.cpp */,
+				FA6044601CBE0F580022881B /* codeforce-339A.cpp */,
+				FA6044611CBE0F580022881B /* judgeon_5002.cpp */,
+				FA6044631CBE0F580022881B /* koistudy-694.cpp */,
+				FA6044641CBE0F580022881B /* koistudy-868.cpp */,
+				FA6044651CBE0F580022881B /* koistudy-877.cpp */,
+				FA6044661CBE0F580022881B /* koistudy-1131.cpp */,
+				FA6044671CBE0F580022881B /* koistudy-1357.cpp */,
 				FA6044581CBE06080022881B /* 8161.cpp */,
 				FA30F37C1C199D70009B9966 /* koistudy-1061.cpp */,
 				FA869A021A4299A8006BBFF3 /* PSM */,
@@ -120,7 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA60445E1CBE08950022881B /* koistudy-1061.cpp in Sources */,
+				FA425B701D1B6C1E004E4A27 /* judgeon-4023.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
