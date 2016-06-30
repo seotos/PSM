@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FA425B711D1B6D73004E4A27 /* judgeon-4023.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA425B6F1D1B6C1E004E4A27 /* judgeon-4023.cpp */; };
+		FA425B751D236C7C004E4A27 /* judgeon-3943.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA425B741D236C7C004E4A27 /* judgeon-3943.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +26,8 @@
 		FA30F37C1C199D70009B9966 /* koistudy-1061.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-1061.cpp"; sourceTree = "<group>"; };
 		FA425B6D1D18DDAC004E4A27 /* judgeon-3981.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "judgeon-3981.cpp"; sourceTree = "<group>"; };
 		FA425B6F1D1B6C1E004E4A27 /* judgeon-4023.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "judgeon-4023.cpp"; sourceTree = "<group>"; };
+		FA425B721D236A4D004E4A27 /* judgeon-3945.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "judgeon-3945.cpp"; sourceTree = "<group>"; };
+		FA425B741D236C7C004E4A27 /* judgeon-3943.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "judgeon-3943.cpp"; sourceTree = "<group>"; };
 		FA6044581CBE06080022881B /* 8161.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 8161.cpp; sourceTree = "<group>"; };
 		FA60445F1CBE0F580022881B /* 1078.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 1078.cpp; sourceTree = "<group>"; };
 		FA6044601CBE0F580022881B /* codeforce-339A.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "codeforce-339A.cpp"; sourceTree = "<group>"; };
@@ -57,6 +59,8 @@
 				FAEBD8601D16C57D00F9F515 /* acmicpc-1149.cpp */,
 				FA425B6D1D18DDAC004E4A27 /* judgeon-3981.cpp */,
 				FA425B6F1D1B6C1E004E4A27 /* judgeon-4023.cpp */,
+				FA425B741D236C7C004E4A27 /* judgeon-3943.cpp */,
+				FA425B721D236A4D004E4A27 /* judgeon-3945.cpp */,
 				FA6044601CBE0F580022881B /* codeforce-339A.cpp */,
 				FA6044611CBE0F580022881B /* judgeon_5002.cpp */,
 				FA6044631CBE0F580022881B /* koistudy-694.cpp */,
@@ -142,7 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA425B711D1B6D73004E4A27 /* judgeon-4023.cpp in Sources */,
+				FA425B751D236C7C004E4A27 /* judgeon-3943.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
