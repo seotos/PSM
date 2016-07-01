@@ -46,10 +46,6 @@ void dfs_set(int y, int x, int value){
         }
     }
 }
-void bfs(int y, int x){
-    
-    
-}
 int main(){
     fill(&map[0][0],&map[119][119],4);
     scanf("%d%d",&n,&m);
