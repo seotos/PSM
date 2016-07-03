@@ -2,8 +2,6 @@
 //  judgeon-3943.cpp
 //  PSM
 //
-//  Created by KimBongSeok on 2016. 6. 29..
-//  Copyright © 2016년 KimBongSeok. All rights reserved.
 //
 // 치즈 문제
 /*
