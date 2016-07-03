@@ -4,7 +4,6 @@ long long int ans=0L;
 int main(){
   int t;
   long long int n;
-
   for(int i=2;i<=31;i++)
     bi[i]=bi[i-1]+(1<<(i-1));
 
