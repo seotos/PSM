@@ -15,6 +15,7 @@
  1
  1
  */
+
 #include <stdio.h>
 #define abs(a) ((a)>0?(a):-(a))
 struct C{
