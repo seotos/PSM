@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		FA6F0FD11D262E69002EF84B /* judgeon-3945.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA425B721D236A4D004E4A27 /* judgeon-3945.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		FA8699FE1A4299A8006BBFF3 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -37,6 +33,8 @@
 		FA6044651CBE0F580022881B /* koistudy-877.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-877.cpp"; sourceTree = "<group>"; };
 		FA6044661CBE0F580022881B /* koistudy-1131.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-1131.cpp"; sourceTree = "<group>"; };
 		FA6044671CBE0F580022881B /* koistudy-1357.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-1357.cpp"; sourceTree = "<group>"; };
+		FA6F0FD21D2630B0002EF84B /* judgeon-4045.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "judgeon-4045.cpp"; sourceTree = "<group>"; };
+		FA6F0FD41D29E6D2002EF84B /* koistudy-1473.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-1473.cpp"; sourceTree = "<group>"; };
 		FA869A001A4299A8006BBFF3 /* PSM */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PSM; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAEBD8601D16C57D00F9F515 /* acmicpc-1149.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "acmicpc-1149.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,6 +59,8 @@
 				FA425B6F1D1B6C1E004E4A27 /* judgeon-4023.cpp */,
 				FA425B741D236C7C004E4A27 /* judgeon-3943.cpp */,
 				FA425B721D236A4D004E4A27 /* judgeon-3945.cpp */,
+				FA6F0FD21D2630B0002EF84B /* judgeon-4045.cpp */,
+				FA6F0FD41D29E6D2002EF84B /* koistudy-1473.cpp */,
 				FA6044601CBE0F580022881B /* codeforce-339A.cpp */,
 				FA6044611CBE0F580022881B /* judgeon_5002.cpp */,
 				FA6044631CBE0F580022881B /* koistudy-694.cpp */,
@@ -146,7 +146,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA6F0FD11D262E69002EF84B /* judgeon-3945.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
