@@ -6,6 +6,10 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		FA6F0FDC1D2CC4CF002EF84B /* acmicpc-1110.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA6F0FDB1D2CC4CF002EF84B /* acmicpc-1110.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		FA8699FE1A4299A8006BBFF3 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -37,6 +41,7 @@
 		FA6F0FD41D29E6D2002EF84B /* koistudy-1473.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-1473.cpp"; sourceTree = "<group>"; };
 		FA6F0FD61D29EF2A002EF84B /* koistudy-1539.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-1539.cpp"; sourceTree = "<group>"; };
 		FA6F0FD81D2B52F6002EF84B /* koistudy-1363.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-1363.cpp"; sourceTree = "<group>"; };
+		FA6F0FDB1D2CC4CF002EF84B /* acmicpc-1110.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "acmicpc-1110.cpp"; sourceTree = "<group>"; };
 		FA869A001A4299A8006BBFF3 /* PSM */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PSM; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAEBD8601D16C57D00F9F515 /* acmicpc-1149.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "acmicpc-1149.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -74,6 +79,7 @@
 				FA6044671CBE0F580022881B /* koistudy-1357.cpp */,
 				FA6044581CBE06080022881B /* 8161.cpp */,
 				FA30F37C1C199D70009B9966 /* koistudy-1061.cpp */,
+				FA6F0FDB1D2CC4CF002EF84B /* acmicpc-1110.cpp */,
 				FA869A021A4299A8006BBFF3 /* PSM */,
 				FA869A011A4299A8006BBFF3 /* Products */,
 			);
@@ -150,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA6F0FDC1D2CC4CF002EF84B /* acmicpc-1110.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
