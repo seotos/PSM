@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		FA34426A1D35D7CA00F1E3B6 /* acmicpc-2167.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA3442691D35D7CA00F1E3B6 /* acmicpc-2167.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		FA8699FE1A4299A8006BBFF3 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -179,7 +175,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA34426A1D35D7CA00F1E3B6 /* acmicpc-2167.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
