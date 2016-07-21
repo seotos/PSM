@@ -31,6 +31,8 @@
 		FA3442641D2F8C8900F1E3B6 /* koistudy-1209.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "koistudy-1209.cpp"; sourceTree = "<group>"; };
 		FA3442671D34680700F1E3B6 /* acmicpc-1003.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "acmicpc-1003.cpp"; sourceTree = "<group>"; };
 		FA3442691D35D7CA00F1E3B6 /* acmicpc-2167.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "acmicpc-2167.cpp"; sourceTree = "<group>"; };
+		FA34426B1D371BC900F1E3B6 /* judgeon-3528.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "judgeon-3528.cpp"; sourceTree = "<group>"; };
+		FA34426D1D376CEA00F1E3B6 /* acmicpc-2178.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "acmicpc-2178.cpp"; sourceTree = "<group>"; };
 		FA425B6D1D18DDAC004E4A27 /* judgeon-3981.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "judgeon-3981.cpp"; sourceTree = "<group>"; };
 		FA425B6F1D1B6C1E004E4A27 /* judgeon-4023.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "judgeon-4023.cpp"; sourceTree = "<group>"; };
 		FA425B721D236A4D004E4A27 /* judgeon-3945.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "judgeon-3945.cpp"; sourceTree = "<group>"; };
@@ -87,6 +89,8 @@
 				FA6F0FD61D29EF2A002EF84B /* koistudy-1539.cpp */,
 				FA3442671D34680700F1E3B6 /* acmicpc-1003.cpp */,
 				FA3442691D35D7CA00F1E3B6 /* acmicpc-2167.cpp */,
+				FA34426B1D371BC900F1E3B6 /* judgeon-3528.cpp */,
+				FA34426D1D376CEA00F1E3B6 /* acmicpc-2178.cpp */,
 				FA6F0FD81D2B52F6002EF84B /* koistudy-1363.cpp */,
 				FA6044601CBE0F580022881B /* codeforce-339A.cpp */,
 				FA6044611CBE0F580022881B /* judgeon_5002.cpp */,
